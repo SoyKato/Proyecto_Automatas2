@@ -98,3 +98,7 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
 # Funcion principal
 def main() -> None:
 ...
+
+
+Creditos: 
+Nano.27 helped in the InLineKeyboardButtons function "button" and optimize code.
