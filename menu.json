@@ -1,0 +1,76 @@
+{
+    "postres":[
+    {
+        "nombre": "hanami dango",
+        "cantidad": 1,
+        "descripcion": "brocheta de 3 bolitas de mochi de sabor distinto: fresa, normal/clasica, matcha.",
+        "precio": 35,
+        "Facha de modificacion": "05/05/24",
+        "img": "img/hanami.jpg"
+    },
+    {
+        "nombre": "mitarashi dango",
+        "cantidad": 3,
+        "descripcion": "brocheta con 3 bolitas de mochi cubiertas en salsa mitarashi (soya, azucar y maizena)",
+        "precio": 75,
+        "Facha de modificacion": "05/05/24",
+        "img": "img/dango.jpg"
+    },
+    {
+        "nombre": "mizu shingen mochi",
+        "cantidad": 1,
+        "descripcion": "gelatina dulce cubierta de una salsa (opcionales: matcha, azucar morena o fresa) y polvo de miso con azucar",
+        "precio": 60,
+        "Facha de modificacion": "05/05/24",
+        "img": "img/mizu.jpg"
+    },
+    {
+        "nombre": "wagashi",
+        "cantidad": 1,
+        "descripcion": "postre tradicional japones de frijol blanco dulce",
+        "precio": 45,
+        "Facha de modificacion": "05/05/24",
+        "img": "img/wagashi.jpg"
+    },
+    {
+        "nombre": "parfait",
+        "cantidad": 1,
+        "descripcion": "vaso de fruta con: gelatina japonesa dulce, dangos, dulce de frijol rojo, panecillo de matcha y crema batida de matcha o nieve",
+        "precio": 130,
+        "Facha de modificacion": "05/05/24",
+        "img": "img/parfait.jpg"
+    },
+    {
+        "nombre": "obanyaki",
+        "cantidad": 1,
+        "descripcion": "panecillo con relleno (opcional: dulce de frijol rojo, crema de mani, chocolate o crema pastelera)",
+        "precio": 60,
+        "Facha de modificacion": "05/05/24",
+        "img": "img/obanyaki.jpg"
+    },
+    {
+        "nombre": "taiyaki",
+        "cantidad": 1,
+        "descripcion": "panecillo con forma de pez con relleno (opcional: dulce de frijol rojo, crema de mani, chocolate o crema pastelera)",
+        "precio": 50,
+        "Facha de modificacion": "05/05/24",
+        "img": "img/taiyaki.jpg"
+    },
+    {
+        "nombre": "daifuku mochi",
+        "cantidad": 1,
+        "descripcion": "postre de arroz dulce con relleno con dulce de frijol rojo y fresa o mandarina",
+        "precio": 70,
+        "Facha de modificacion": "05/05/24",
+        "img": "img/daifuku.jpg"
+    },
+    {
+        "nombre": "Test",
+        "cantidad": 1,
+        "descripcion": "ejemplo",
+        "precio": 99999,
+        "Facha de modificacion": "05/05/24",
+        "img": "img/" 
+    }
+]   
+}
